@@ -1,3 +1,3 @@
 # Sure Tomorrow
-##Descripción General
+## Descripción General
 Este proyecto aborda cuatro tareas específicas para la compañía de seguros Sure Tomorrow utilizando técnicas de Machine Learning. Las tareas incluyen la identificación de clientes similares, la predicción de la probabilidad de recibir una prestación del seguro, la predicción del número de prestaciones, y la protección de los datos personales mediante técnicas de enmascaramiento.
